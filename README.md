@@ -20,3 +20,7 @@ Step 2: Scroll down to the section 'Generate RSA Key Pair'.
 The tool will generate a Public Key and a Private Key.
 - These keys are required for encryption and decryption
 <img width="648" height="552" alt="image" src="https://github.com/user-attachments/assets/a1f3b6a6-1923-4784-8717-9adb166b4ed1" />
+Step 3: Scroll down to the 'Encrypt' section of the tool.
+- In the input text box, type a sample message (for example: 'Hello RSA Encryption').
+- Now click on the 'Encrypt' button
+<img width="576" height="609" alt="image" src="https://github.com/user-attachments/assets/49f6025f-22fb-42ce-b685-af8c6064fc3e" />
