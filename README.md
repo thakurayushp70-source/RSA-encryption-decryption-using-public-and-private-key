@@ -37,3 +37,4 @@ Step 5: Scroll further down to the 'Decrypt' section of the tool.
 <img width="576" height="624" alt="image" src="https://github.com/user-attachments/assets/ebe8d3ed-19c8-4b30-bc5f-ca2f68c33264" />
 Step 6: After clicking on Decrypt, the tool will display the original plain text message.
 - Verify that the decrypted message is the same as the original message entered in Step 3.
+<img width="670" height="402" alt="image" src="https://github.com/user-attachments/assets/c56320c0-b1a1-431f-ae99-cfe26bde7fe8" />
