@@ -35,3 +35,5 @@ Step 5: Scroll further down to the 'Decrypt' section of the tool.
 - Paste the ciphertext (from Step 4) into the Ciphertext input  box.
 - Now click on the 'Decrypt' button
 <img width="576" height="624" alt="image" src="https://github.com/user-attachments/assets/ebe8d3ed-19c8-4b30-bc5f-ca2f68c33264" />
+Step 6: After clicking on Decrypt, the tool will display the original plain text message.
+- Verify that the decrypted message is the same as the original message entered in Step 3.
