@@ -31,3 +31,6 @@ Step 4: Once you click on Encrypt, the tool will generate an encrypted message, 
 - This ciphertext is unreadable and can only be decrypted using the corresponding Private Key.
 - Copy this encrypted text
 <img width="646" height="473" alt="image" src="https://github.com/user-attachments/assets/496bd9a5-8985-4710-987e-0b74732a7f4e" />
+Step 5: Scroll further down to the 'Decrypt' section of the tool.
+- Paste the ciphertext (from Step 4) into the Ciphertext input  box.
+- Now click on the 'Decrypt' button
