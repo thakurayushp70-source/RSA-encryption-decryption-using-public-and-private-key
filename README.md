@@ -8,3 +8,5 @@ By the end of this practical, we will be able to learn:
 •	Encrypt a message using the RSA public key.
 •	Decrypt a ciphertext using the RSA private key.
 •	Verify that the decrypted message is the same as the original input message.
+•	RSA Encryption/Decryption Tool (https://www.devglan.com/online-tools/rsa-encryption-decryption)
+•	A sample text message to test encryption and decryption
