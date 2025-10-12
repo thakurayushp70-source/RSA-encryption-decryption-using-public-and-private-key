@@ -24,3 +24,9 @@ Step 3: Scroll down to the 'Encrypt' section of the tool.
 - In the input text box, type a sample message (for example: 'Hello RSA Encryption').
 - Now click on the 'Encrypt' button
 <img width="576" height="609" alt="image" src="https://github.com/user-attachments/assets/49f6025f-22fb-42ce-b685-af8c6064fc3e" />
+Step 4: Once you click on Encrypt, the tool will generate an encrypted message, also called the Ciphertext.
+- This ciphertext is unreadable and can only be decrypted using the corresponding Private Key.
+- Copy this encrypted text
+Step 4: Once you click on Encrypt, the tool will generate an encrypted message, also called the Ciphertext.
+- This ciphertext is unreadable and can only be decrypted using the corresponding Private Key.
+- Copy this encrypted text
