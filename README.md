@@ -19,3 +19,4 @@ Step 2: Scroll down to the section 'Generate RSA Key Pair'.
 - Click on the button 'Generate RSA Key Pair'
 The tool will generate a Public Key and a Private Key.
 - These keys are required for encryption and decryption
+<img width="648" height="552" alt="image" src="https://github.com/user-attachments/assets/a1f3b6a6-1923-4784-8717-9adb166b4ed1" />
