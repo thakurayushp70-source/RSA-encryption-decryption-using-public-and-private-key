@@ -17,3 +17,5 @@ https://www.devglan.com/online-tools/rsa-encryption-decryption
 This will open the RSA Encryption and Decryption online tool
 Step 2: Scroll down to the section 'Generate RSA Key Pair'.
 - Click on the button 'Generate RSA Key Pair'
+The tool will generate a Public Key and a Private Key.
+- These keys are required for encryption and decryption
