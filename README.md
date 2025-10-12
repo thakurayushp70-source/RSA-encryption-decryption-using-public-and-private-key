@@ -10,3 +10,8 @@ By the end of this practical, we will be able to learn:
 •	Verify that the decrypted message is the same as the original input message.
 •	RSA Encryption/Decryption Tool (https://www.devglan.com/online-tools/rsa-encryption-decryption)
 •	A sample text message to test encryption and decryption
+Working:
+Step 1: Open a web browser on your laptop/PC. In the address bar, type the following URL and press Enter:
+https://www.devglan.com/online-tools/rsa-encryption-decryption
+
+This will open the RSA Encryption and Decryption online tool
