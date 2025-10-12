@@ -98,9 +98,9 @@ Image File: Any .png or .jpg file.
 ### Working: 
 
 - Step-1 Create a folder 
-![68a7c675-e99b-4ce3-bb95-4695f4c212fa (copy)](https://github.com/user-attachments/assets/b3e09444-cbb3-4689-a98f-b99eb93bd815)
 
- 
+ ![f2e0b53b-ee7d-40c7-a1bb-0572abfb5ac1](https://github.com/user-attachments/assets/5f639495-ddd9-407a-a572-3e75a13f8277)
+
 
 - Step-2 Insert image in folder in which secret message we want to hide and send it to receiver. 
 
