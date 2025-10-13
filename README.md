@@ -114,10 +114,12 @@ Step-5 Now open the image the notepad and scroll all the way down to see the sec
 ##Project-2 (By Prashant Singh)
 RSA Encryption and Decryption 
 
-PROJECT: RSA Encryption and Decryption
+
 Definition:
+
 RSA (Rivest–Shamir–Adleman) is one of the most widely used asymmetric cryptographic algorithms. It uses two different keys – a Public Key for encryption and a Private Key for decryption. The algorithm ensures secure communication over an insecure channel. Any data encrypted using the public key can only be decrypted using the corresponding private key.
 Outcomes/Learning:
+
 By the end of this practical, we will be able to learn:
 •	Understand the importance of asymmetric encryption in security.
 •	Generate RSA public and private key pairs using an online tool.
@@ -129,7 +131,9 @@ Required Tools:
 •	Web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, etc.)
 •	RSA Encryption/Decryption Tool (https://www.devglan.com/online-tools/rsa-encryption-decryption)
 •	A sample text message to test encryption and decryption
+
 Working:
+
 Step 1: Open a web browser on your laptop/PC. In the address bar, type the following URL and press Enter:
 
 ![58d3945e-8c90-4dc8-922f-ad3753688ed4](https://github.com/user-attachments/assets/42fe7013-b652-4172-a481-f844b58a1e8c)
