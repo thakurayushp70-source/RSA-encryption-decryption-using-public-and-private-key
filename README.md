@@ -14,21 +14,30 @@ Session 2025-26
 PRACTICAL LAB FILE 
 
 
-SUBMITTED BY :-                                   	                                                                             SUBMITTED TO :-
-NAME –   			      	                                                                      Mr. Anand Kumar
-SECTION – 
+SUBMITTED BY :-                                 	                                                                             SUBMITTED TO :-
+NAME –  Aachal Gupta
+Prashant Singh
+Anku Singh 
+                                                                                                                              Mr. Anand Kumar
+SECTION – BCACS11
 ROLL NO - 
+1250264110
+1250264035
+1250264018
+
 
 INDEX
 
-S.No.	Name of Experiments	Page No.	Sign/
-Remark
+
 1.	RSA encryption decryption using public and private key.		
 2.	Phishing / Spoofing		
 3.	Steganography using cmd		
 4.	Open Stego		
-5.	Nmap configuration 		
+5.	Nmap configuration
+   
 
+
+## Project-1 (By Aachal Gupta)
 USING CMD SEND SECRET MESSAGE
 
 Definition:
