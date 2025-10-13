@@ -184,3 +184,76 @@ Step 6: After clicking on Decrypt, the tool will display the original plain text
  
 Step 7: Conclusion – Through this practical, we have successfully generated RSA keys, encrypted a sample message using the Public Key, and decrypted the ciphertext back to the original message using the Private Key.
 
+## Project 3 (By Anku Singh)
+
+What Is OpenStego and Steganography?
+Steganography is the practice of concealing information within another file or medium to
+prevent detection. Unlike cryptography, which scrambles data, steganography hides its very
+existence.
+
+OpenStego is a free, open-source tool designed for digital steganography. It allows users to:
+Hide data within image files (e.g., embedding a secret message in a JPEG).
+Watermark files with invisible signatures to detect unauthorized copying
+Learning Outcomes
+
+By using OpenStego, learners and practitioners can:
+Understand the principles of steganography and how it differs from encryption.
+Gain hands-on experience with hiding and extracting data from image files.
+Explore digital watermarking as a method of copyright protection.
+Evaluate the security and limitations of steganographic techniques.
+
+Apply ethical hacking skills in cybersecurity labs or forensic investigations.
+• Tool/Resource Purpose
+• OpenStego software Main application for data hiding and watermarking (Download here)
+• Cover file (e.g., image) The file that will conceal the hidden data
+• Message file (e.g., text) The secret data to be embedded
+• Java Runtime
+Environment (JRE) Required to run OpenStego on most systems
+• Computer with GUI OpenStego has a graphical interface for ease of use
+
+1. Download and Install OpenStegoVisit openstego.com and
+download the latest version.Install it on your system (requires Java
+Runtime Environment).
+
+
+![833228c4-6e89-43a6-b1df-387241c6faa8](https://github.com/user-attachments/assets/bcf6736c-9d2f-4491-b171-dea0b00d13ba)
+
+2. Prepare Your FilesCover File: Choose an image (e.g., .png, .jpg)
+that will hide your message.Message File: Create a text file (.txt) with the secret message or data you want to embed.
+
+![5d57d831-99f5-4a95-a205-79dfa1e72eab](https://github.com/user-attachments/assets/d86ae839-3d1e-4e91-b7bd-898723d800ca)
+
+
+3, Launch OpenStego
+Open the application. You’ll see two main tabs: Data Hiding and
+Watermarking.
+
+4. Select “Data Hiding” Tab
+This mode allows you to embed secret data inside an image.
+
+
+![62786fa2-66e7-450c-8c2c-7d2e41cb5cc3](https://github.com/user-attachments/assets/7bd3d92c-7e64-48c2-8d58-a90f1d0f2545)
+
+ 
+5. Choose Your Files
+Input Cover File: Browse and select the image file.
+Message File: Browse and select the text file containing your secret
+message.
+
+Output Stego File: Choose a name and location for the new image that will
+contain the hidden data.
+
+6. Set Password (Optional)
+You can set a password to encrypt the hidden data for added security.
+
+7. Click “Hide Data”
+OpenStego will process the files and generate a new image with the
+embedded message.
+
+![af6b8223-71be-48c7-8acc-1cfa03d0fcc7](https://github.com/user-attachments/assets/ebebd221-6c3f-42eb-b390-7a182bac41a3)
+
+
+8. Verify or Extract Data
+To retrieve the hidden message, use the Extract Data option in the same tab.
+Provide the stego image and password (if used), and OpenStego will recover
+the original message file.
