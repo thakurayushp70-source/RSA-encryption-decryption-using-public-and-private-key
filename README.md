@@ -14,11 +14,12 @@ Session 2025-26
 PRACTICAL LAB FILE 
 
 
-SUBMITTED BY :-                                 	                                                                             SUBMITTED TO :-
-NAME –  Aachal Gupta
-Prashant Singh
-Anku Singh 
-                                                                                                                              Mr. Anand Kumar
+-SUBMITTED BY :-                                 	                                                                             
+-NAME – 
+-Aachal Gupta
+-Prashant Singh
+-Anku Singh 
+                                                                                                                             
 SECTION – BCACS11
 ROLL NO - 
 1250264110
