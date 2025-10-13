@@ -108,3 +108,75 @@ Step-5 Now open the image the notepad and scroll all the way down to see the sec
 ![96481c16-2e95-4135-b7e9-531c0d847ab2](https://github.com/user-attachments/assets/341dad34-430d-4947-9c79-4f0844cf48e1)
 
 
+
+
+
+##Project-2 (By Prashant Singh)
+RSA Encryption and Decryption 
+
+PROJECT: RSA Encryption and Decryption
+Definition:
+RSA (Rivest–Shamir–Adleman) is one of the most widely used asymmetric cryptographic algorithms. It uses two different keys – a Public Key for encryption and a Private Key for decryption. The algorithm ensures secure communication over an insecure channel. Any data encrypted using the public key can only be decrypted using the corresponding private key.
+Outcomes/Learning:
+By the end of this practical, we will be able to learn:
+•	Understand the importance of asymmetric encryption in security.
+•	Generate RSA public and private key pairs using an online tool.
+•	Encrypt a message using the RSA public key.
+•	Decrypt a ciphertext using the RSA private key.
+•	Verify that the decrypted message is the same as the original input message.
+Required Tools:
+•	Laptop/PC with Internet connection
+•	Web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, etc.)
+•	RSA Encryption/Decryption Tool (https://www.devglan.com/online-tools/rsa-encryption-decryption)
+•	A sample text message to test encryption and decryption
+Working:
+Step 1: Open a web browser on your laptop/PC. In the address bar, type the following URL and press Enter:
+
+![58d3945e-8c90-4dc8-922f-ad3753688ed4](https://github.com/user-attachments/assets/42fe7013-b652-4172-a481-f844b58a1e8c)
+
+This will open the RSA Encryption and Decryption online tool.
+ 
+Step 2: Scroll down to the section 'Generate RSA Key Pair'.
+- Click on the button 'Generate RSA Key Pair'.
+- The tool will generate a Public Key and a Private Key.
+- These keys are required for encryption and decryption.
+  
+ 
+![50d21510-a12b-4590-b0e9-d09915e58c01](https://github.com/user-attachments/assets/b7789e7b-32e9-40c2-8c84-74d0efb338d4)
+
+Step 3: Scroll down to the 'Encrypt' section of the tool.
+- In the input text box, type a sample message (for example: 'Hello RSA Encryption').
+- Now click on the 'Encrypt' button.
+
+   ![210bb2fd-ddc7-4538-964d-bbed0d0a05b1 (2)](https://github.com/user-attachments/assets/6e93fc1e-34c2-4c6a-bbc3-25e8be57c404)
+
+
+  Step 4: Once you click on Encrypt, the tool will generate an encrypted message, also called the Ciphertext.
+- This ciphertext is unreadable and can only be decrypted using the corresponding Private Key.
+- Copy this encrypted text.
+   
+ 
+
+
+
+![9f74ad56-2241-4291-a252-54163a420eae](https://github.com/user-attachments/assets/444a075f-fc60-481e-bb3a-f61c0999321d)
+
+
+
+Step 5: Scroll further down to the 'Decrypt' section of the tool.
+- Paste the ciphertext (from Step 4) into the Ciphertext input  box.
+- Now click on the 'Decrypt' button.
+
+ 
+![7bc94d5c-7ce5-4663-b4db-4dd846f1e946](https://github.com/user-attachments/assets/71a4656a-8ee3-4410-88be-f512f3a01581)
+
+
+Step 6: After clicking on Decrypt, the tool will display the original plain text message.
+- Verify that the decrypted message is the same as the original message entered in Step 3.
+
+
+![4fa04e80-e148-439b-a9d5-3fcf3c12eb25](https://github.com/user-attachments/assets/dd410dfc-261e-4747-88ac-eecf1332adf7)
+
+ 
+Step 7: Conclusion – Through this practical, we have successfully generated RSA keys, encrypted a sample message using the Public Key, and decrypted the ciphertext back to the original message using the Private Key.
+
