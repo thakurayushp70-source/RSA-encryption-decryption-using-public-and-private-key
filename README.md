@@ -23,6 +23,10 @@ Aachal Gupta
 Prashant Singh
 
 Anku Singh 
+
+Anshuman Singh
+
+
                                                                                                                              
 SECTION – BCACS11
 
@@ -33,6 +37,8 @@ ROLL NO -
 1250264035
 
 1250264018
+
+1250264021
 
 
 INDEX
@@ -257,3 +263,52 @@ embedded message.
 To retrieve the hidden message, use the Extract Data option in the same tab.
 Provide the stego image and password (if used), and OpenStego will recover
 the original message file.
+
+
+
+
+## Project-4 (By Anushuman Singh)
+HIDE THE PDF BY IMAGE
+
+1. Launch OpenStego. Find and run the applicaƟon's .jar file. You will see a window
+with two main funcƟons: "Hide Data" and "Extract Data".
+
+2. Select "Hide Data". On the main screen, click the "Hide Data" buƩon.
+   
+3. Choose the message file. Click the "..." buƩon next to the Message File field and
+select your PDF file from your computer.
+
+4. Choose the cover file. Click the "..." buƩon next to the Cover File field and select
+an image file (such as a .png or .bmp) to serve as the container for your PDF. The
+cover file must be larger than your PDF.
+
+5. Specify the output file. Click the "..." buƩon next to the Output Stego File field.
+Navigate to the desired save locaƟon and enter a name for the new stego-image
+file, including the image extension (e.g., secret_image.png). 
+
+6. Add a password (opƟonal but recommended). For enhanced security, use
+the Password and Confirm Password fields to set a password for the hidden PDF.
+You can also select an encrypƟon algorithm, such as AES, from
+the OpƟons secƟon.
+
+7. Embed the PDF. Click the Hide Data buƩon at the boƩom of the window to
+embed the PDF. Open Stego will noƟfy you when the process is complete. 
+
+Part 2 : - Extract the PDF from the image
+
+1. Launch OpenStego. Open the applicaƟon again.
+  
+2. Select "Extract Data". On the main screen, click the "Extract Data" buƩon.
+ 
+3. Choose the stego file. Click the "..." buƩon next to the Input Stego File field and
+select the image file that contains your hidden PDF.
+
+4. Choose the output folder. Click the "..." buƩon next to the Output Folder for
+Message File field and select a desƟnaƟon folder where the extracted PDF will be saved.
+
+5. Enter the password. If you set a password during the embedding process, enter it
+in the Password field.
+
+6. Extract the PDF. Click the Extract Data buƩon at the boƩom of the window.
+OpenStego will extract your PDF file to the specified folder, where you can then
+open it normally. 
