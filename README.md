@@ -25,7 +25,7 @@ Prashant Singh
 Anku Singh 
 
 Anshuman Singh
-
+Ayush pratap singh
 
                                                                                                                              
 SECTION – BCACS11
@@ -39,13 +39,13 @@ ROLL NO -
 1250264018
 
 1250264021
-
+1250264034
 
 INDEX
 
 
 1.	RSA encryption decryption using public and private key.		
-2.	Phishing / Spoofing		
+2.	Phishing and spoofing		
 3.	Steganography using cmd		
 4.	Open Stego		
 5.	Nmap configuration
