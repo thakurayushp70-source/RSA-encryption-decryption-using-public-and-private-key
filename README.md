@@ -3,7 +3,7 @@ BABU BANARASI DAS UNIVERSITY
 
  <img width="427" height="419" alt="Screenshot 2025-10-13 222542" src="https://github.com/user-attachments/assets/2d7c4268-67a5-4054-8811-e8f814248c1e" />
 
-SCHOOL OF ENGINEERING 
+SCHOOL OF COMPUTER APPLICATION
 
 Department of Computer Science & Engineering
 
@@ -26,6 +26,7 @@ Anku Singh
 
 Anshuman Singh
 
+Ayush pratap singh
 
                                                                                                                              
 SECTION – BCACS11
@@ -40,7 +41,7 @@ ROLL NO -
 
 1250264021
 
-
+1250264034
 INDEX
 
 
@@ -312,3 +313,52 @@ in the Password field.
 6. Extract the PDF. Click the Extract Data buƩon at the boƩom of the window.
 OpenStego will extract your PDF file to the specified folder, where you can then
 open it normally. 
+
+Project by-(Ayush pratap singh) 
+Practical 5- Phishing-page
+# phishing-page
+‎Step 1-
+‎. Open kali linux
+‎
+
+‎STEP 2-
+‎. Go to terminal
+
+‎STEP 3-
+‎.  clone zphisher from git hub
+
+‎Step 4-
+‎. Type ls
+‎. Now you can see zphisher 
+
+‎Step 5-
+‎. CD zphisher
+‎. Now you entered in zphisher
+
+‎Step 6-
+‎. /zphisher.sh
+
+‎Step 7-
+‎. Select any social media (Instagram) 
+
+‎Step 8-
+.‎Select traditional login page
+‎
+
+Step 9-
+.‎Select local host
+
+‎Step 10-
+‎. You can see the link
+
+‎Step 11-
+.‎Open to your browser
+
+‎Step 12-
+.‎Now in terminal you can see the details
+
+‎Step 13-
+.‎Press Ctrl + c to stop the program
+‎
+‎
+‎
