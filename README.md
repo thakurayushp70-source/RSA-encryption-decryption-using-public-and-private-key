@@ -317,7 +317,7 @@ open it normally.
 
 ## Project by-(Ayush pratap singh) 
 ## Practical 5- Phishing-page
-# phishing-page
+# Phishing-page
 ‎Step 1-
 ‎. Open kali linux
 ‎
@@ -326,7 +326,7 @@ open it normally.
 ‎. Go to terminal
 
 ‎STEP 3-
-‎.  clone zphisher from git hub
+‎.  Clone zphisher from git hub
 
 ‎Step 4-
 ‎. Type ls
