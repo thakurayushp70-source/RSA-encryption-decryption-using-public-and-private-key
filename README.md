@@ -315,8 +315,8 @@ in the Password field.
 OpenStego will extract your PDF file to the specified folder, where you can then
 open it normally. 
 
-Project by-(Ayush pratap singh) 
-Practical 5- Phishing-page
+## Project by-(Ayush pratap singh) 
+## Practical 5- Phishing-page
 # phishing-page
 ‎Step 1-
 ‎. Open kali linux
