@@ -18,30 +18,20 @@ SUBMITTED BY :-
 
 NAME – 
 
-Aachal Gupta
+Aachal Gupta  ( 1250264001)
 
-Prashant Singh
+Prashant Singh  (1250264063)
 
-Anku Singh 
+Anku Singh   (1250264018)
 
-Anshuman Singh
+Anshuman Singh  (1250264021)
 
-Ayush pratap singh
+Ayush pratap singh   (1250264034)
 
                                                                                                                              
 SECTION – BCACS11
 
-ROLL NO -
 
-1250264001
-
-1250264063
-
-1250264018
-
-1250264021
-
-1250264034
 
 INDEX
 
